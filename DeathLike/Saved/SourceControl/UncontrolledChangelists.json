@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE/Project/DeathLike/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/UE/Project/DeathLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UE/Project/DeathLike/Content/Characters/Mannequins/Animations/Roll.uasset",
+				"C:/UE/Project/DeathLike/Content/Characters/Mannequins/Animations/Roll_Montage.uasset"
+			]
+		}
+	]
+}

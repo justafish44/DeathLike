@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DeathLike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\DeathLikeEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeathLike\DeathLike.init.gen.cpp.obj"
+"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeathLike\MainCharacter.gen.cpp.obj"
+"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeathLike\DeathLike.cpp.obj"
+"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeathLike\MainCharacter.cpp.obj"
+"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeathLike\Default.rc2.res"
+/OUT:"C:\UE\Project\DeathLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeathLike\UnrealEditor-DeathLike.lib"

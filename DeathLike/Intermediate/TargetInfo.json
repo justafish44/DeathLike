@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DeathLike",
+			"Path": "..\\Source\\DeathLike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DeathLikeEditor",
+			"Path": "..\\Source\\DeathLikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

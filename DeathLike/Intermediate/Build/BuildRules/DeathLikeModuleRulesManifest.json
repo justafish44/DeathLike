@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE\\Project\\DeathLike\\Source\\DeathLike\\DeathLike.Build.cs",
+		"C:\\UE\\Project\\DeathLike\\Source\\DeathLike.Target.cs",
+		"C:\\UE\\Project\\DeathLike\\Source\\DeathLikeEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
